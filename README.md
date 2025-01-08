@@ -1,1 +1,3 @@
 # git-learning demo
+
+The steps to reach the journey
